@@ -1,13 +1,21 @@
-# Sample Hardhat Project
+# Example NFT
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+This project demonstrates a basics of NFT (ERC721 standart).
 
-Try running some of the following tasks:
+## Compile contract
 
 ```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.ts
+npx hardhat compile
+```
+
+## Test
+
+```shell
+npx hardhar test
+```
+
+## Deploy
+
+```shell
+npx hardhat deploy
 ```
