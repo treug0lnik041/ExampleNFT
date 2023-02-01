@@ -4,8 +4,7 @@ This project demonstrates a basics of NFT (ERC721 standart).
 
 ## Clone
 ```shell
-git clone https://github.com/treug0lnik041/ExampleNFT.git
-npm i
+git clone https://github.com/treug0lnik041/ExampleNFT.git && cd ExampleNFT && npm i
 ```
 
 ## Compile contract
